@@ -11,4 +11,6 @@ If successful, your work will continue to advance the theory and practice of for
 1. Creating dummies of event type variable without dropping any table
 2. Modifying items in event dummies parallel to the items in event name in special cases of some non-shopping festivals.
 
+### What cam be add in this ?
+
 
